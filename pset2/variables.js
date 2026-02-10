@@ -15,6 +15,8 @@ let howManyMeals = meals[1].length
 print(howManyMeals); //4?
 
 
+
+
 //let myNumber=100-meals[3]
 //print(myNumber)//
 
