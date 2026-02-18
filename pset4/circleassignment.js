@@ -22,7 +22,7 @@ const drawing = p5 => {
         }
         //console.log(coDir)
 
-        if (coDir == true) {
+        if (coDir == true) { 
             coInc++
         } else {
             coInc--
