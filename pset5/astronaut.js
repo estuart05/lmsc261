@@ -1,4 +1,4 @@
-/*
+
 const dailyActivities = [
 	"Clean Solar Panel",
 	"Video Chat with Houston",
@@ -12,7 +12,7 @@ function pickRandomActivity() {
 }
 
 print("Today's activity is "+pickRandomActivity())
-*/
+
 //next section
 
 const maxLifeSpan = 1000
